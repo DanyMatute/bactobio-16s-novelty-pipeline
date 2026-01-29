@@ -1,0 +1,8 @@
+name: rnans-16s-py
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - pip
+

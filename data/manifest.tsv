@@ -1,0 +1,5 @@
+sample	sample_type	read1	read2
+POS_MOCK	positive	data/POS_CONT/Mock_S280_L001_R1_001.fastq	data/POS_CONT/Mock_S280_L001_R2_001.fastq
+TEST_F3D146	test	data/SAMPLES/F3D146_S212_L001_R1_001.fastq	data/SAMPLES/F3D146_S212_L001_R2_001.fastq
+NEG_BLANK	negative	data/NEG_CONT/Blank_NTC_R1.fastq.gz	data/NEG_CONT/Blank_NTC_R2.fastq.gz
+

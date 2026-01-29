@@ -1,0 +1,26 @@
+# Raw sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Snakemake generated files
+.snakemake/
+.snakemake_conda/
+
+# Reference databases
+resources/db/*.fa
+resources/db/*.fasta
+resources/db/*.gz
+resources/db/*.zip
+
+# Pipeline outputs
+results/
+logs/
+
+# Python / R / OS
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.DS_Store

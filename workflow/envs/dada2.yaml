@@ -1,0 +1,11 @@
+name: rnans-16s-dada2
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.3
+  - r-optparse
+  - r-jsonlite
+  - bioconductor-dada2
+  - cutadapt
+
